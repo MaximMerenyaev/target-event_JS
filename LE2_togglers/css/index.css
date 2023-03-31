@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+#center1 {
+  margin-left: 550px;
+  margin-top: 210px;
+}
+
+.container {
+  padding: 0;
+  margin: 10px;
+  background-color: black;
+  height: 40px;
+  width: 200px;
+}
+
+.btn {
+  padding: 0;
+  margin: 0;
+  border: none;
+  height: 40px;
+  width: 40px;
+  transition: 1s;
+}
+
+#btn1 {
+  background-color: rgb(38, 93, 156);
+}
+#btn2 {
+  background-color:#794b4b;
+}
+#btn3 {
+  background-color: #33753c;
+}
+
+.left {
+  margin-left: 160px;
+}
